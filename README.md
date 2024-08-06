@@ -13,8 +13,13 @@ Slightly customized everforest color scheme for the windows terminal
 
 ## Usage
 
-Append the scheme defined under `schemes` list in `schemes.json` to the `settings.json` file of windows terminal which could be opened using:
+Open windows terminal settings JSON file by:
 
 ```
 Settings -> Open JSON file
 ```
+
+Now:
+
+- Append the scheme defined under `schemes` list in `schemes.json` to `schemes` property in `settings.json`
+- Append the scheme defined under `themes` list in `themes.json` to `themes` property in `settings.json`
