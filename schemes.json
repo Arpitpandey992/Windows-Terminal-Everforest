@@ -1,9 +1,23 @@
 {
   "schemes": [
     {
-      "background": "#2A3035",
+      "name": "Everforest",
+
+      "cursorColor": "#EEEEEE",
+      "selectionBackground": "#63677E",
+
+      "background": "#2D353B",
+      "foreground": "#D0C6AD",
+
       "black": "#7F7F7F",
       "blue": "#C3D3FB",
+      "cyan": "#BAFCF2",
+      "green": "#C3E5A5",
+      "purple": "#F6CDF6",
+      "red": "#F2A9A8",
+      "white": "#CCCCCC",
+      "yellow": "#FEFCBC",
+
       "brightBlack": "#7E7F7E",
       "brightBlue": "#C3D3FB",
       "brightCyan": "#BAFCF2",
@@ -11,17 +25,7 @@
       "brightPurple": "#F6CDF6",
       "brightRed": "#F2A9A8",
       "brightWhite": "#CCCCCC",
-      "brightYellow": "#FEFCBC",
-      "cursorColor": "#EEEEEE",
-      "cyan": "#BAFCF2",
-      "foreground": "#D0C6AD",
-      "green": "#C3E5A5",
-      "name": "Everforest",
-      "purple": "#F6CDF6",
-      "red": "#F2A9A8",
-      "selectionBackground": "#63677E",
-      "white": "#CCCCCC",
-      "yellow": "#FEFCBC"
+      "brightYellow": "#FEFCBC"
     }
   ]
 }

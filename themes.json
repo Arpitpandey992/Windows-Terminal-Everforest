@@ -1,0 +1,20 @@
+{
+  "themes": [
+    {
+      "name": "Everforest",
+
+      "tab": {
+        "background": "#4F585EFF",
+        "showCloseButton": "always",
+        "unfocusedBackground": null
+      },
+      "tabRow": {
+        "background": "#2D353BFF",
+        "unfocusedBackground": "#2D353BFF"
+      },
+      "window": {
+        "applicationTheme": "dark"
+      }
+    }
+  ]
+}
