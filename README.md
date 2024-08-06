@@ -9,8 +9,6 @@
   <img src="assets/preview.png"/>
 </p>
 
-Slightly customized everforest color scheme for the windows terminal
-
 ## Usage
 
 Open windows terminal settings JSON file by:
